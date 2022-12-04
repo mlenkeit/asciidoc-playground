@@ -1,6 +1,10 @@
+:toc:
+:toc-placement!:
+
 = My Playground
 
-:toc:
+toc::[]
+
 
 == Introduction
 
