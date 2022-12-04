@@ -1,0 +1,22 @@
+= My Playground
+
+:toc:
+
+== Introduction
+
+Lorem *ipsum* _dolor_ sit `amet`
+
+[source,javascript]
+----
+const hello = 'World'
+console.log('hello', hello)
+----
+
+== Conclusion
+
+* good, because
+* bad because
+
+TIP: we can use admonitions
+
+include::./some-disclaimer.adoc[]
