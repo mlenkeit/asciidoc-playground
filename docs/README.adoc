@@ -23,7 +23,7 @@ console.log('hello', hello)
 
 TIP: we can use admonitions
 
-include::./some-disclaimer.adoc[]
+include::some-disclaimer.adoc[]
 
 === Subchapter
 
